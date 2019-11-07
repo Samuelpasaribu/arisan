@@ -74,7 +74,8 @@ Setiap member dapat melihat detail grup arisan yang diikutinya.
 
 ![Dashboard Arisan](public/screenshots/group-members-01.jpg)
 
-
+# Copyright & License
+  Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
+  
 ## Lisensi
-
 Project Arisan merupakan software free dan open source di bawah [lisensi MIT](LICENSE).
